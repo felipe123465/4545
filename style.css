@@ -35,3 +35,10 @@ float: right;
 {
 color: orange;
 }
+.novidade{
+    margin-bottom: 20px;
+}
+
+#contato iframe{
+    width: 100%;
+}
